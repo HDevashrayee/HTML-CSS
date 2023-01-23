@@ -7,3 +7,19 @@ hr{
     /* border-width: 5px;
     width: 5px; */
 }
+
+.top-container{
+    background-color: #B2B2B2;
+}
+
+.middle-container{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container{
+    background-color: beige;
+    width: 200px;
+    height: 200px;
+}

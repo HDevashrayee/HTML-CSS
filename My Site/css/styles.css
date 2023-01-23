@@ -1,0 +1,40 @@
+.top-container{
+    width: 1000px;
+    height: 100px;
+}
+.middle-container{
+    height: 100px;
+    width: 100px;
+}
+.bottom-container{
+    height: 100px;
+    width: 100px;
+}
+
+.container-1{
+    background-color: antiquewhite;
+    border: solid 10px;
+    height: 100px;
+    margin-top: 250px;
+    padding: 20px;
+    width: 100px;
+}
+
+.container-2{
+    background-color: aquamarine;
+    border: solid 20px;
+    height: 150px;
+    width: 150px;
+    margin-left: 160px;
+}
+.container-3{
+    background-color: blueviolet;
+    border: solid 5px;
+    height: 200px;
+    width: 200px;
+    margin-left: 350px;
+}
+
+.pro{
+    text-decoration: underline;
+}
